@@ -10,7 +10,7 @@ function preload(){
 
 
 function setup(){
-    canvas = createCanvas(800,600);
+    canvas = createCanvas(900,600);
 
     block1 = createSprite(0,580,360,30);
     block1.shapeColor = "blue";
